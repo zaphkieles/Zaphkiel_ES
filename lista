@@ -903,6 +903,17 @@
 
           "import": true
 
+        },
+        {
+
+          "name": "TDTChannels | Añadir Lista",
+
+          "image": "",
+
+          "url": "https://www.tdtchannels.com/lists/tv.w3u",
+
+          "import": true
+
         }
 
       ]
