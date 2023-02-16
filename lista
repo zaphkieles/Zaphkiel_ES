@@ -834,7 +834,7 @@
 
         {
 
-          "name": "SFNTV | (VPN)",
+          "name": "SFNTV (necesita activar VPN ABLStream)",
 
           "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png",
 
@@ -862,7 +862,7 @@
 
           "image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg",
 
-          "url": "https://bit.ly/3FGz57q?r=lp",
+          "url": "https://photocall.tv",
 
           "embed": true
 
@@ -926,7 +926,7 @@
 
     {
 
-      "name": "Eventos Diarios",
+      "name": "Eventos Diarios (necesita activar VPN ABLStream)",
 
       "image": "https://deportesextremadura.es/wp-content/uploads/2021/07/Deportes.jpg",
 
@@ -936,7 +936,7 @@
 
         {
 
-          "name": "SportsOnline (VPN) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
+          "name": "SportsOnline (necesita activar VPN ABLStream) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
 
           "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
 
@@ -986,7 +986,7 @@
 
         {
 
-          "name": "(ABLStream con VPN)",
+          "name": "(necesita activar VPN ABLStream)",
 
           "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
 
@@ -997,7 +997,7 @@
         },
 {
 
-          "name": "Futbolfullenvivo (ABLStream con VPN)",
+          "name": "Futbolfullenvivo (necesita activar VPN ABLStream)",
 
           "image": "",
 
