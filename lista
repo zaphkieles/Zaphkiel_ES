@@ -2,7 +2,7 @@
 
   "name": "Zaphkiel_ES",
 
-  "author": "Zaphkiel_ES - Actualizado: 18-02-2023",
+  "author": "Zaphkiel_ES - Actualizado: 17-02-2023",
 
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
 
@@ -178,7 +178,24 @@
                 "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
 
               },
+              {
 
+                "name": "TVG Galicia",
+
+                "image": "",
+
+                "url": "acestream://aa9e353457d273108ec57dc1a449d66defb66b6a"
+
+              },
+              {
+
+                "name": "TVG 2",
+
+                "image": "",
+
+                "url": "acestream://dfbeae99e6da47a8f10be96e28ae1ba600cd84bc"
+
+              },
               {
 
                 "name": "EuroSport 1 1080",
@@ -900,17 +917,6 @@
           "image": "https://storage.googleapis.com/bitly-image-upload/Imcteu0Yez0",
 
           "url": "https://bit.ly/3jELNuY?r=lp",
-
-          "import": true
-
-        },
-        {
-
-          "name": "TDTChannels | Añadir Lista",
-
-          "image": "",
-
-          "url": "https://www.tdtchannels.com/lists/tv.w3u",
 
           "import": true
 
