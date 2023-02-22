@@ -2,7 +2,7 @@
 
   "name": "Zaphkiel_ES",
 
-  "author": "Zaphkiel_ES - Actualizado: 17-02-2023",
+  "author": "Zaphkiel_ES - Actualizado: 22-02-2023",
 
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
 
@@ -626,6 +626,15 @@
                 "image": "",
 
                 "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+
+              },
+                            {
+
+                "name": "M+ Liga de Campeones 2",
+
+                "image": "",
+
+                "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
 
               },
               {
