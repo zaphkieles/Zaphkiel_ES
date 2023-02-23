@@ -2,7 +2,7 @@
 
   "name": "Zaphkiel_ES",
 
-  "author": "Zaphkiel_ES - Actualizado: 22-02-2023",
+  "author": "Zaphkiel_ES - Actualizado: 23-02-2023",
 
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
 
@@ -67,6 +67,15 @@
                 "image": "",
 
                 "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+
+              },
+              {
+
+                "name": "ESPN",
+
+                "image": "",
+
+                "url": "acestream://7f8d128f090347c48b7eb608a7037a2998a743ba"
 
               },
 
@@ -203,15 +212,6 @@
                 "image": "",
 
                 "url": "acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2"
-
-              },
-              {
-
-                "name": "EuroSport 2",
-
-                "image": "",
-
-                "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
 
               },
 
@@ -626,15 +626,6 @@
                 "image": "",
 
                 "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
-
-              },
-                            {
-
-                "name": "M+ Liga de Campeones 2",
-
-                "image": "",
-
-                "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
 
               },
               {
