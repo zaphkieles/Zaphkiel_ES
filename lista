@@ -49,7 +49,6 @@
             ]
 
           },
-
           {
 
             "name": "Varios",
@@ -715,12 +714,100 @@
 
                 "url": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce"
 
-              }
+              },
+              {
 
+                "name": "DAZN1 (enlace web)",
+
+                "image": "",
+
+                "url": "https://nosequewea.tk/dazn1",
+
+                "embed": true
+
+              },
+              {
+
+                "name": "DAZN2 (enlace web)",
+
+                "image": "",
+
+                "url": "https://nosequewea.tk/dazn2",
+
+                "embed": true
+
+              },
+              {
+
+                "name": "DAZN LaLiga (enlace web)",
+
+                "image": "",
+
+                "url": "https://nosequewea.tk/daznlaliga",
+
+                "embed": true
+
+              },            
+              {
+
+                "name": "DAZN F1 (enlace web)",
+
+                "image": "",
+
+                "url": "https://nosequewea.tk/daznf1",
+
+                "embed": true
+
+              }
             ]          
 
           }
 
+      ]
+
+    },
+    {
+
+      "name": "Eventos del día",
+
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
+
+      "info": "No Info",
+
+      "stations": [
+
+        {
+
+          "name": "LaLiga SmartBank ⚽️ SD Eibar vs Villarreal B",
+
+          "image": "",
+
+          "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247",
+          "url": "acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3",
+          "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+
+        },
+        {
+
+          "name": "LaLiga Santander ⚽️ Elche vs Real Betis",
+
+          "image": "",
+
+          "url": "acestream://df98650743f24a245c44cdf2851e57078f4c487a",
+          "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff",
+          "url": "acestream://df98650743f24a245c44cdf2851e57078f4c487a",
+          "url": "acestream://c35d2207792128fc0ae49c40e885c463f664dbce"
+
+        },
+        {
+
+          "name": "Vacio",
+
+          "image": "",
+
+          "url": "acestream://"
+
+        }
       ]
 
     },
