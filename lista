@@ -803,7 +803,7 @@
           "stations": [
             {
               "name": "🔗Enlace1",
-              "image": "https://cdn-icons-png.flaticon.com/512/282/282100.png",
+              "image": "",
               "url": "acestream://df98650743f24a245c44cdf2851e57078f4c487a"            
             },
             {
