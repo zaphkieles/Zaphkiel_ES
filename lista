@@ -251,12 +251,12 @@
             "info": "No Info",
             "stations": [
               {
-                "name": "M+ La Liga TV multiaudio 1080p (dial 52)",
+                "name": "M+ La Liga TV multiaudio (dial 52)",
                 "image": "",
                 "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
               },
               {
-                "name": "M+ La Liga TV multiaudio 1080p (dial 52)",
+                "name": "M+ La Liga TV multiaudio (dial 52)",
                 "image": "",
                 "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
               },
@@ -266,22 +266,22 @@
                 "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
               },              
               {
-                "name": "M+ La Liga SmartBank Multiaudio 1080p (dial 54)",
+                "name": "M+ La Liga SmartBank Multiaudio (dial 54)",
                 "image": "",
                 "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
               },
               {
-                "name": "M+ La Liga SmartBank Multiaudio 720p (dial 54)",
+                "name": "M+ La Liga SmartBank Multiaudio (dial 54)",
                 "image": "",
                 "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
               },
               {
-                "name": "M+ La Liga SmartBank TV M2 720p (dial 177)",
+                "name": "M+ La Liga SmartBank TV M2 (dial 177)",
                 "image": "",
                 "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
               },
               {
-                "name": "M+ La Liga SmartBank 720p (revisión)",
+                "name": "M+ La Liga SmartBank TV M2 (dial 177)",
                 "image": "",
                 "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
               }
@@ -345,12 +345,12 @@
             "info": "No Info",
             "stations": [
              {
-                "name": "DAZN1 1080 (dial 64)",
+                "name": "DAZN1 (dial 64)",
                 "image": "",
                 "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
               },
               {
-                "name": "DAZN1 720p",
+                "name": "DAZN1 (dial 64)",
                 "image": "",
                 "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
               },
@@ -360,12 +360,12 @@
                 "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
               },
               {
-                "name": "DAZN Liga Multiaudio1080p",
+                "name": "DAZN Liga Multiaudio (dial 53)",
                 "image": "",
                 "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
               },
               {
-                "name": "DAZN Liga Multiaudio1080p",
+                "name": "DAZN Liga Multiaudio (dial 53)",
                 "image": "",
                 "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff"
               },
@@ -375,7 +375,7 @@
                 "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
               },
               {
-                "name": "DAZN2 720p",
+                "name": "DAZN2",
                 "image": "",
                 "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
               },
@@ -390,7 +390,7 @@
                 "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
               },
               {
-                "name": "DAZN Liga 720p",
+                "name": "DAZN Liga",
                 "image": "",
                 "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6"
               },
