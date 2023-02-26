@@ -508,6 +508,18 @@
           ]
         },
         {
+          "name": "⚽️ Serie A Italia",
+          "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
+          "info": "",
+          "stations": [
+            {
+              "name": "20:45 | AC Milan vs Atalanta",
+              "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
+              "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+            }
+          ]
+        },
+        {
           "name": "⚽️ EFL Carabao Cup",
           "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
           "info": "",
