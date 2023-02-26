@@ -345,7 +345,7 @@
             "info": "No Info",
             "stations": [
              {
-                "name": "DAZN1 1080p",
+                "name": "DAZN1 1080 (dial 64)",
                 "image": "",
                 "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
               },
@@ -500,7 +500,7 @@
             {
               "name": "14:30 - Tottenham Hotspur vs Chelsea",
               "image": "https://fulbox.com/wp-content/uploads/2017/08/Tottenham-vs-Chelsea-Hora-Canal-D%C3%B3nde-ver-Jornada-2-Liga-Premier-2017-2018.jpg",
-              "url": ""
+              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
             }
           ]
         }
