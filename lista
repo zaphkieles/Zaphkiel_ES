@@ -442,12 +442,12 @@
           "info": "",
           "stations": [
             {
-              "name": "14:00 | Athletic Club vs Girona (terminado)",
+              "name": "14:00 | Athletic Club vs Girona",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/03/648_5.jpg",
               "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             },
             {
-              "name": "16:15 | Celta de Vigo vs Real Valladolid (online)",
+              "name": "16:15 | Celta de Vigo vs Real Valladolid",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/09/real-valladolid-vs-celta-vigo-1030x438.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
               "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
             },
@@ -469,17 +469,17 @@
           "info": "",
           "stations": [
             {
-              "name": "14:00 | Ibiza vs SD Huesca (terminado)",
+              "name": "14:00 | Ibiza vs SD Huesca",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/08/4584_864.jpg",
               "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
             {
-              "name": "16:15 | Levante vs CD Lugo (online)",
+              "name": "16:15 | Levante vs CD Lugo",
               "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9898ded29c70137b/637e3979a091826d61209b55/WhatsApp_Image_2022-11-22_at_17.33.51_(3).jpeg?auto=webp&format=jpg&quality=100",
               "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
             },
             {
-              "name": "16:15 | Real Zaragoza vs Burgos (online)",
+              "name": "16:15 | Real Zaragoza vs Burgos",
               "image": "https://imgs.search.brave.com/uL79SrTfDqRKI6Obb4dlCuZ08VeZwry9VwZEmLH9ySA/rs:fit:662:372:1/g:ce/aHR0cHM6Ly9maWxl/cy5wcm95ZWN0b2Ns/dWJlcy5jb20vdmFs/bGFkb2xpZC8yMDE5/MDcvNjYyeDM3MmNf/MTYxNTIwMDk1ODY2/LmpwZw",
               "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
             },
@@ -501,7 +501,7 @@
           "info": "",
           "stations": [
             {
-              "name": "17:30 | Bayern de Múnich  FC Unión Berlín",
+              "name": "17:30 | Bayern de Múnich vs FC Unión Berlín",
               "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwW0BDfpRZEgi-Kp6FzAqPXZXdUZfF9YTFvg&usqp=CAU",
               "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
             }
