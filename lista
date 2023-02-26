@@ -429,6 +429,9 @@
 
 
 
+
+
+
     {
       "name": "Eventos del día (26/02/2023)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
@@ -444,19 +447,19 @@
               "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             },
             {
-              "name": "16:15 - Celta de Vigo vs Real Valladolid (online)",
+              "name": "16:15 | Celta de Vigo vs Real Valladolid (online)",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/09/real-valladolid-vs-celta-vigo-1030x438.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
               "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
             },
             {
-              "name": "18:30 - Almería vs FC Barcelona",
+              "name": "18:30 | Almería vs FC Barcelona",
               "image": "https://i0.wp.com/www.neogol.com/wp-content/uploads/2014/02/barcelona-vs-almeria.jpg",
-              "url": ""
+              "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             },
             {
-              "name": "21:00 - Sevilla FC vs Osasuna",
+              "name": "21:00 | Sevilla FC vs Osasuna",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/11/sevilla-vs-osasuna.jpg",
-              "url": ""
+              "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
             }
           ]
         },
@@ -471,41 +474,70 @@
               "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
             {
-              "name": "16:15 - Levante vs CD Lugo (online)",
+              "name": "16:15 | Levante vs CD Lugo (online)",
               "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9898ded29c70137b/637e3979a091826d61209b55/WhatsApp_Image_2022-11-22_at_17.33.51_(3).jpeg?auto=webp&format=jpg&quality=100",
               "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
             },
             {
-              "name": "16:15 - Real Zaragoza vs Burgos (online)",
+              "name": "16:15 | Real Zaragoza vs Burgos (online)",
               "image": "https://imgs.search.brave.com/uL79SrTfDqRKI6Obb4dlCuZ08VeZwry9VwZEmLH9ySA/rs:fit:662:372:1/g:ce/aHR0cHM6Ly9maWxl/cy5wcm95ZWN0b2Ns/dWJlcy5jb20vdmFs/bGFkb2xpZC8yMDE5/MDcvNjYyeDM3MmNf/MTYxNTIwMDk1ODY2/LmpwZw",
               "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
             },
             {
-              "name": "18:30 - UD Las Palmas vs Ponferradina",
+              "name": "18:30 | UD Las Palmas vs Ponferradina",
               "image": "https://www.udlaspalmas.net/wp-content/2019/10/Previa-Partidos-Ponferradina-UD.jpg",
-              "url": ""
+              "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
             },
             {
-              "name": "21:00 - Real Oviedo vs Albacete",
+              "name": "21:00 | Real Oviedo vs Albacete",
               "image": "http://1.bp.blogspot.com/-jkJCF8ZnTZk/Vec8b_v7PlI/AAAAAAAAEwY/983gySsY3GA/s1600/2015-16%2B03%2BOVI-ALB.jpg",
+              "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Bundesliga",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "17:30 | Bayern de Múnich  FC Unión Berlín",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwW0BDfpRZEgi-Kp6FzAqPXZXdUZfF9YTFvg&usqp=CAU",
               "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ Premier League",
-          "image": "https://yt3.googleusercontent.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s900-c-k-c0x00ffffff-no-rj",
+          "name": "⚽️ EFL Carabao Cup",
+          "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEFL_Cup&psig=AOvVaw3_t-oFul3Da8TAwbzofT1G&ust=1677514711171000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD5-rXLs_0CFQAAAAAdAAAAABAE",
           "info": "",
           "stations": [
             {
-              "name": "14:30 - Tottenham Hotspur vs Chelsea (terminado)",
-              "image": "https://images.daznservices.com/di/library/DAZN_News/42/7/tottenham-v-chelsea_y2suznjwy1ll1iiz174gy0lut.png?t=-518710709",
-              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+              "name": "17:30 | Manchester United vs Newcastle United",
+              "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt47a4617651db5966/63f8e2f8090bc40c0842c415/Big_Match_Man_United_vs_Newcastle.jpg?quality=80&format=pjpg&auto=webp&width=620",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Francia Ligue 1",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "20:45 | Olympique Marsella vs PSG París Saint-Germain",
+              "image": "https://depor.com/resizer/Kl0fuGwZzN2KmvbBgLr0ek39UvE=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/56UGGZME2VBGHOIQLVR3HNVNBM.jpg",
+              "url": ""
             }
           ]
         }
       ]
     },
+
+
+
+
+
 
 
 
