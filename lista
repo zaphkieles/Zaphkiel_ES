@@ -439,24 +439,24 @@
           "info": "LaLiga (M+ Dial 52), LaLiga TV Bar (M+ Dial 300),DAZN, DAZN LaLiga (M+ Dial 53), LaLiga TV Bar (M+ Dial 300)",
           "stations": [
             {
-              "name": "14:00 - Athletic Club vs Girona",
+              "name": "14:00 | Athletic Club vs Girona (online)",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/03/648_5.jpg",
               "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
             },
             {
               "name": "16:15 - Celta de Vigo vs Real Valladolid",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/09/real-valladolid-vs-celta-vigo-1030x438.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
-              "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6,https://nosequewea.tk/daznlaliga,acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"            
+              "url": ""
             },
             {
               "name": "18:30 - Almería vs FC Barcelona",
               "image": "https://i0.wp.com/www.neogol.com/wp-content/uploads/2014/02/barcelona-vs-almeria.jpg",
-              "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862,acestream://d47addf5e467cbf102ba759600303c21efb1deeb,acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+              "url": ""
             },
             {
               "name": "21:00 - Sevilla FC vs Osasuna",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/11/sevilla-vs-osasuna.jpg",
-              "url": "acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6,https://nosequewea.tk/daznlaliga,acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
+              "url": ""
             }
           ]
         },
@@ -466,29 +466,29 @@
           "info": "LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), LaLiga TV BAR 3 (M+ Dial 302), Amazon Prime Video",
           "stations": [
             {
-              "name": "14:00 - Ibiza vs SD Huesca",
+              "name": "14:00 | Ibiza vs SD Huesca (online)",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/08/4584_864.jpg",
               "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
             {
               "name": "16:15 - Levante vs CD Lugo",
               "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9898ded29c70137b/637e3979a091826d61209b55/WhatsApp_Image_2022-11-22_at_17.33.51_(3).jpeg?auto=webp&format=jpg&quality=100",
-              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247,acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c,acestream://cf6249379184d88a61f9db617341c6b6e6abb342,acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              "url": ""
             },
             {
               "name": "16:15 - Real Zaragoza vs Burgos",
               "image": "https://imgs.search.brave.com/uL79SrTfDqRKI6Obb4dlCuZ08VeZwry9VwZEmLH9ySA/rs:fit:662:372:1/g:ce/aHR0cHM6Ly9maWxl/cy5wcm95ZWN0b2Ns/dWJlcy5jb20vdmFs/bGFkb2xpZC8yMDE5/MDcvNjYyeDM3MmNf/MTYxNTIwMDk1ODY2/LmpwZw",
-              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247,acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c,acestream://cf6249379184d88a61f9db617341c6b6e6abb342,acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              "url": ""
             },
             {
               "name": "18:30 - UD Las Palmas vs Ponferradina",
               "image": "https://www.udlaspalmas.net/wp-content/2019/10/Previa-Partidos-Ponferradina-UD.jpg",
-              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247,acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c,acestream://cf6249379184d88a61f9db617341c6b6e6abb342,acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              "url": ""
             },
             {
               "name": "21:00 - Real Oviedo vs Albacete",
               "image": "http://1.bp.blogspot.com/-jkJCF8ZnTZk/Vec8b_v7PlI/AAAAAAAAEwY/983gySsY3GA/s1600/2015-16%2B03%2BOVI-ALB.jpg",
-              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247,acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c,acestream://cf6249379184d88a61f9db617341c6b6e6abb342,acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              "url": ""
             }
           ]
         },
@@ -500,7 +500,7 @@
             {
               "name": "14:30 - Tottenham Hotspur vs Chelsea",
               "image": "https://fulbox.com/wp-content/uploads/2017/08/Tottenham-vs-Chelsea-Hora-Canal-D%C3%B3nde-ver-Jornada-2-Liga-Premier-2017-2018.jpg",
-              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660,acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd,acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+              "url": ""
             }
           ]
         }
