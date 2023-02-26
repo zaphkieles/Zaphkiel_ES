@@ -436,12 +436,12 @@
          {
           "name": "⚽️ LaLiga Santander | 15 min. antes del evento",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
-          "info": "LaLiga (M+ Dial 52), LaLiga TV Bar (M+ Dial 300),DAZN, DAZN LaLiga (M+ Dial 53), LaLiga TV Bar (M+ Dial 300)",
+          "info": "",
           "stations": [
             {
               "name": "14:00 | Athletic Club vs Girona (online)",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/03/648_5.jpg",
-              "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+              "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             },
             {
               "name": "16:15 - Celta de Vigo vs Real Valladolid",
