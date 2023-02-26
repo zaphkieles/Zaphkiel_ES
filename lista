@@ -276,7 +276,7 @@
                 "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
               },
               {
-                "name": "M+ La Liga SmartBank 720p (revision)",
+                "name": "M+ La Liga SmartBank TV M2 720p (dial 177)",
                 "image": "",
                 "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
               },
@@ -471,9 +471,9 @@
               "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
             {
-              "name": "16:15 - Levante vs CD Lugo",
+              "name": "16:15 - Levante vs CD Lugo (online)",
               "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt9898ded29c70137b/637e3979a091826d61209b55/WhatsApp_Image_2022-11-22_at_17.33.51_(3).jpeg?auto=webp&format=jpg&quality=100",
-              "url": ""
+              "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
             },
             {
               "name": "16:15 - Real Zaragoza vs Burgos (online)",
