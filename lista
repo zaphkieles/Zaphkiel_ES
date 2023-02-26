@@ -251,7 +251,7 @@
             "info": "No Info",
             "stations": [
               {
-                "name": "M+ La Liga multiaudio 1080p",
+                "name": "M+ La Liga multiaudio 1080p (dial 52)",
                 "image": "",
                 "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
               },
@@ -266,22 +266,22 @@
                 "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
               },              
               {
-                "name": "M+ La Liga SmartBank Multiaudio 1080p",
+                "name": "M+ La Liga SmartBank Multiaudio 1080p (dial 54)",
                 "image": "",
                 "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
               },
               {
-                "name": "M+ La Liga SmartBank Multiaudio 720p",
+                "name": "M+ La Liga SmartBank Multiaudio 720p (dial 54)",
                 "image": "",
                 "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
               },
               {
-                "name": "M+ La Liga SmartBank 720p",
+                "name": "M+ La Liga SmartBank 720p (revision)",
                 "image": "",
                 "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342"
               },
               {
-                "name": "M+ La Liga SmartBank 720p",
+                "name": "M+ La Liga SmartBank 720p (revisión)",
                 "image": "",
                 "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
               }
@@ -355,7 +355,7 @@
                 "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
               },
               {
-                "name": "DAZN1 Bar HD",
+                "name": "DAZN1 Bar HD [DE]",
                 "image": "",
                 "url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
               },
