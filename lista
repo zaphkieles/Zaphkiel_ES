@@ -251,17 +251,17 @@
             "info": "No Info",
             "stations": [
               {
-                "name": "M+ La Liga multiaudio 1080p (dial 52)",
+                "name": "M+ La Liga TV multiaudio 1080p (dial 52)",
                 "image": "",
                 "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
               },
               {
-                "name": "M+ La Liga multiaudio 1080p",
+                "name": "M+ La Liga TV multiaudio 1080p (dial 52)",
                 "image": "",
                 "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb"
               },
               {
-                "name": "M+ La Liga TV",
+                "name": "M+ La Liga TV (dial 52)",
                 "image": "",
                 "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
               },              
