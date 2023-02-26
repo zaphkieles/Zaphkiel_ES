@@ -439,14 +439,14 @@
           "info": "",
           "stations": [
             {
-              "name": "14:00 | Athletic Club vs Girona (online)",
+              "name": "14:00 | Athletic Club vs Girona",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/03/648_5.jpg",
               "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             },
             {
               "name": "16:15 - Celta de Vigo vs Real Valladolid",
               "image": "https://laligaexpert.com/wp-content/uploads/2020/09/real-valladolid-vs-celta-vigo-1030x438.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
-              "url": ""
+              "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
             },
             {
               "name": "18:30 - Almería vs FC Barcelona",
@@ -466,7 +466,7 @@
           "info": "LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), LaLiga TV BAR 3 (M+ Dial 302), Amazon Prime Video",
           "stations": [
             {
-              "name": "14:00 | Ibiza vs SD Huesca (online)",
+              "name": "14:00 | Ibiza vs SD Huesca",
               "image": "https://as00.epimg.net/img/comunes/directos/futbol/08/4584_864.jpg",
               "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
@@ -478,7 +478,7 @@
             {
               "name": "16:15 - Real Zaragoza vs Burgos",
               "image": "https://imgs.search.brave.com/uL79SrTfDqRKI6Obb4dlCuZ08VeZwry9VwZEmLH9ySA/rs:fit:662:372:1/g:ce/aHR0cHM6Ly9maWxl/cy5wcm95ZWN0b2Ns/dWJlcy5jb20vdmFs/bGFkb2xpZC8yMDE5/MDcvNjYyeDM3MmNf/MTYxNTIwMDk1ODY2/LmpwZw",
-              "url": ""
+              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             },
             {
               "name": "18:30 - UD Las Palmas vs Ponferradina",
