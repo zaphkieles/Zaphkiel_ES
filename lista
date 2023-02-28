@@ -69,7 +69,7 @@
             {
               "name": "21:00 | Luton Town vs Millwall",
               "image": "https://e0.365dm.com/19/12/2048x1152/skysports-millwall-luton-town_4871804.jpg",
-              "url": "acestream"//149a38e333de920753f1388c43247283bdb05f5b"
+              "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
             }
           ]
         },
