@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 27-02-2023 - 23:30",
+  "author": "Zaphkiel_ES - Actualizado: 28-02-2023 - 18:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -10,7 +10,7 @@
   "groups": [
 
     {
-      "name": "Eventos del día (finalizados)",
+      "name": "Eventos del día (28-02-2023)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
@@ -32,7 +32,7 @@
           "stations": [
             {
               "name": "",
-              "image": "",
+              "image": "https://statics-maker.llt-services.com/gra/images/2023/02/19/optimized/75d1bdf5-775b-4c1f-b951-06646ed2501c-981.jpg",
               "url": ""
             }
           ]
@@ -52,15 +52,45 @@
         {
           "name": "⚽️ Serie A Italia (sin eventos)",
           "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
-          "info": "",
+          "info": "#Vamos (M+ Dial 8), #Vamos Bar (M+ Dial 304), Liga de Campeones (M+ Dial 56), Movistar+ Lite",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "20:45 | Juventus vs Torino Serie A Italia",
+              "image": "https://phantom-marca.unidadeditorial.es/4d962b9c1561879b8b9e1d2821903324/resize/1320/f/jpg/assets/multimedia/imagenes/2021/04/03/16174028726082.png",
+              "url": "444b51b2606cba9efb1b4ff56bf652cbc02a5f47, f559b9fea692a86e1a1de41cd1aa667e3fa02775 , 0e18315b703248bb01eab6b9d3f0cb2cd893601f , 045718bad2ddb4f03b1a420754a97a23ad8b493b"
             }
           ]
         },
+        {
+          "name": "⚽️ Championship",
+          "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
+          "info": "DAZN, DAZN 4 (M+ Dial 197)",
+          "stations": [
+            {
+              "name": "21:00 | Luton Town vs Millwall",
+              "image": "https://e0.365dm.com/19/12/2048x1152/skysports-millwall-luton-town_4871804.jpg",
+              "url": "149a38e333de920753f1388c43247283bdb05f5b"
+            }
+          ]
+        },
+        {
+          "name": "⚽️ FA Cup",
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
+          "info": "DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
+          "stations": [
+            {
+              "name": "20:45 | Fulham vs Leeds United",
+              "image": "https://e0.365dm.com/19/12/2048x1152/skysports-millwall-luton-town_4871804.jpg",
+              "url": "3f68c1aa02094e253fd8446c0c307089cecf2a1e, 704c3c92aafbcf3234c88a4be5fd98fcbd238d85" 
+            },
+            {
+              "name": "21:00 | Bristol City vs Manchester City",
+              "image": "https://otrosnumeros.org/wp-content/uploads/2023/02/pronostico-bristol-city-vs-manchester-city-28-02-2023.png.webp",
+              "url": "8b2e003ef51657196d2096aa84b9b21ae4bfb660, 47c6e8dadfba2b3bd013feecf4194ecceec428cd" 
+            }
+          ]
+        },
+
         {
           "name": "⚽️ EFL Carabao Cup (sin eventos)",
           "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
