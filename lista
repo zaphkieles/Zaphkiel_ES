@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 01-03-2023 - 18:00",
+  "author": "Zaphkiel_ES - Actualizado: 01-03-2023 - 23:30",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -10,7 +10,7 @@
   "groups": [
 
     {
-      "name": "Eventos del día (01-03-2023)",
+      "name": "Eventos del día (01-03-2023) (finalizados)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
@@ -38,14 +38,14 @@
           ]
         },
         {
-          "name": "⚽️ Copa del Rey (Semifinales) (finalizado)",
+          "name": "⚽️ Copa del Rey (sin eventos)",
           "image": "https://cdn.resfu.com/media/img_news/creatividad-de-los-enfrentamientos-de-semifinales-de-la-copa-del-rey-2022-23--besoccer.png?size=1200x&lossy=1",
           "info": "La 1, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Liga de Campeones (M+ Dial 50), Movistar+ Lite,",
           "stations": [
             {
               "name": "21:00 | Osasuna vs Athletic Club (1-0)",
-              "image": "https://phantom-marca.unidadeditorial.es/c4a5ebbe79fc4b462416f5a5f76e0986/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/28/16776225330897.jpg",
-              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775" , "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+              "image": "",
+              "url": "" , "url": ""
             }
           ]
         },
@@ -86,36 +86,36 @@
           ]
         },
         {
-          "name": "⚽️ FA Cup (Octavos de Final) (finalizados)",
+          "name": "⚽️ FA Cup (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
-          "info": "DAZN, DAZN 3 (M+ Dial 196),DAZN, DAZN 4 (M+ Dial 197)",
+          "info": "",
           "stations": [
             {
-              "name": "20:45 | Manchester United vs West Ham Wanderers (3-1)",
-              "image": "https://www.infobae.com/new-resizer/RtQKo2fLFYnMKiDvUjxp8xhXiXM=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/SNITTLXKTRE63JDJXEA2XAUY5A.jpg",
-              "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+              "name": "",
+              "image": "",
+              "url": ""
             },
             {
-              "name": "20:55 | Sheffield United vs Tottenham Hotspur (1-0)",
-              "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ODYE5IKD6VEUND7DYPQ2XZZLNA.jpg",
-              "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
+              "name": "",
+              "image": "",
+              "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ Premier League (finalizados)",
+          "name": "⚽️ Premier League (sin eventos)",
           "image": "https://yt3.googleusercontent.com/_ReZkZsEOwJYajNodeVsGUo6ZtzVrd_1N3kceVAYnaYvoBkG1Emjf2GJn-gSbL0Rs3gGoCUOnjM=s900-c-k-c0x00ffffff-no-rj",
-          "info": "DAZN, DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148), DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
+          "info": "",
           "stations": [
             {
-              "name": "20:45 | Arsenal vs Everton (4-0)",
-              "image": "https://mexico.infobetting.com/blog/wp-content/uploads/2023/02/Arsenal-FC-Everton_mx.jpg",
-              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660"
+              "name": "",
+              "image": "",
+              "url": ""
             },
             {
-              "name": "21:00 | Liverpool vs Wolverhampton Wanderers (2-0)",
-              "image": "https://mexico.infobetting.com/blog/wp-content/uploads/2023/02/Liverpool-FC-Wolverhampton_mx.jpg",
-              "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+              "name": "",
+              "image": "",
+              "url": ""
             }
           ]
         },
