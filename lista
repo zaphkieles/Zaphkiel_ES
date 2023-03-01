@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 28-02-2023 - 18:00",
+  "author": "Zaphkiel_ES - Actualizado: 01-03-2023 - 18:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -10,7 +10,7 @@
   "groups": [
 
     {
-      "name": "Eventos del día (28-02-2023)",
+      "name": "Eventos del día (01-03-2023)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
@@ -32,8 +32,20 @@
           "stations": [
             {
               "name": "",
-              "image": "https://statics-maker.llt-services.com/gra/images/2023/02/19/optimized/75d1bdf5-775b-4c1f-b951-06646ed2501c-981.jpg",
+              "image": "",
               "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ Copa del Rey (Semifinales)",
+          "image": "https://cdn.resfu.com/media/img_news/creatividad-de-los-enfrentamientos-de-semifinales-de-la-copa-del-rey-2022-23--besoccer.png?size=1200x&lossy=1",
+          "info": "La 1, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Liga de Campeones (M+ Dial 50), Movistar+ Lite,",
+          "stations": [
+            {
+              "name": "21:00 | Osasuna vs Athletic Club",
+              "image": "https://phantom-marca.unidadeditorial.es/c4a5ebbe79fc4b462416f5a5f76e0986/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/28/16776225330897.jpg",
+              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775","acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
             }
           ]
         },
@@ -50,43 +62,60 @@
           ]
         },
         {
-          "name": "⚽️ Serie A Italia",
+          "name": "⚽️ Serie A Italia (sin eventos)",
           "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
-          "info": "#Vamos (M+ Dial 8), #Vamos Bar (M+ Dial 304), Liga de Campeones (M+ Dial 56), Movistar+ Lite",
+          "info": "",
           "stations": [
             {
-              "name": "20:45 | Juventus vs Torino Serie A Italia",
-              "image": "https://phantom-marca.unidadeditorial.es/4d962b9c1561879b8b9e1d2821903324/resize/1320/f/jpg/assets/multimedia/imagenes/2021/04/03/16174028726082.png",
-              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+              "name": "",
+              "image": "",
+              "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ Championship",
+          "name": "⚽️ Championship (sin eventos)",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
-          "info": "DAZN, DAZN 4 (M+ Dial 197)",
+          "info": "",
           "stations": [
             {
-              "name": "21:00 | Luton Town vs Millwall",
-              "image": "https://e0.365dm.com/19/12/2048x1152/skysports-millwall-luton-town_4871804.jpg",
+              "name": "",
+              "image": "",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "⚽️ FA Cup (Octavos de Final)",
+          "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
+          "info": "DAZN, DAZN 3 (M+ Dial 196),DAZN, DAZN 4 (M+ Dial 197)",
+          "stations": [
+            {
+              "name": "20:45 | Manchester United vs West Ham Wanderers",
+              "image": "https://www.infobae.com/new-resizer/RtQKo2fLFYnMKiDvUjxp8xhXiXM=/1024x512/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/SNITTLXKTRE63JDJXEA2XAUY5A.jpg",
+              "url": "acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a"
+            },
+            {
+              "name": "20:55 | Sheffield United vs Tottenham Hotspur",
+              "image": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/ODYE5IKD6VEUND7DYPQ2XZZLNA.jpg",
               "url": "acestream://149a38e333de920753f1388c43247283bdb05f5b"
             }
           ]
         },
         {
-          "name": "⚽️ FA Cup",
+          "name": "⚽️ Premier League",
           "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
-          "info": "DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149),DAZN,DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148)",
+          "info": "DAZN, DAZN 1 (M+ Dial 64), DAZN BAR 1 (M+ Dial 148), DAZN, DAZN 2 (M+ Dial 65), DAZN BAR 2 (M+ Dial 149)",
           "stations": [
             {
-              "name": "20:45 | Fulham vs Leeds United",
-              "image": "https://cdn.thestatszone.com/uploads/thumbnails/_r169l/1208003/fulham-vs-leeds-english_premier_league_2021_background.jpg",
-              "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+              "name": "20:45 | Arsenal vs Everton",
+              "image": "https://mexico.infobetting.com/blog/wp-content/uploads/2023/02/Arsenal-FC-Everton_mx.jpg",
+              "url": "acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660","url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
             },
             {
-              "name": "21:00 | Bristol City vs Manchester City",
-              "image": "https://otrosnumeros.org/wp-content/uploads/2023/02/pronostico-bristol-city-vs-manchester-city-28-02-2023.png.webp",
-              "url": "acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd"
+              "name": "21:00 | Liverpool vs Wolverhampton Wanderers",
+              "image": "https://mexico.infobetting.com/blog/wp-content/uploads/2023/02/Liverpool-FC-Wolverhampton_mx.jpg",
+              "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e","url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85"
             }
           ]
         },
