@@ -10,7 +10,7 @@
   "groups": [
 
     {
-      "name": "Eventos del día | finalizados",
+      "name": "Eventos del día",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
@@ -38,14 +38,14 @@
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
-          "image": "https://cdn.resfu.com/media/img_news/creatividad-de-los-enfrentamientos-de-semifinales-de-la-copa-del-rey-2022-23--besoccer.png?size=1200x&lossy=1",
-          "info": "",
+          "name": "⚽️ Semifinales",
+          "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
+          "info": "📡 La 1, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Liga de Campeones (M+ Dial 50), Movistar+ Lite",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": "" , "url": ""
+              "name": "21:00 | Real Madrid vs FC Barcelona",
+              "image": "https://phantom-marca.unidadeditorial.es/635bdbdd0c070d6c0be4a73ae88939da/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/01/16776862446392.jpg",
+              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775" , "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
             }
           ]
         },
