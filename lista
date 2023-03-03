@@ -655,7 +655,7 @@
     {
       "name": "Apps",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU",
-      "info": "clic descargar / abrir archivo",
+      "info": "clic descargar / abrir en navegador",
       "stations": [
         {
           "name": "Archivo de Apps",
