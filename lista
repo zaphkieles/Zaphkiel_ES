@@ -698,24 +698,17 @@
           "embed": true
         },
         {
-          "name": "Listas Diarias (en mantenimiento)",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
-          "url": "https://mega.nz/file/VwQCiJga#xukR5hIL1j_mY4bHX4fNJLrpad1Pf1hIs2ej_S8hWM0",
-          "info": "clic descargar | abrir archivo",
-          "embed": true
-        },
-        {
           "name": "Acestream Engine | Android",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
           "url": "https://mega.nz/file/0oZAkbBC#dn0T0jMbJ47qJAgVthjWxGoumJfeE2fzajULysOq_1k",
-          "info": "",
+          "info": "clic descargar | abrir archivo",
           "embed": true
         },
         {
           "name": "Acestream Engine | Android TV",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
           "url": "https://play.google.com/store/apps/details?id=org.acestream.core.atv&hl=es&gl=US",
-          "info": "",
+          "info": "clic descargar | Google PlayStore",
           "embed": true
         },
         {
@@ -723,6 +716,34 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
           "url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU",
           "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Listas Diarias (en mantenimiento)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://mega.nz/file/VwQCiJga#xukR5hIL1j_mY4bHX4fNJLrpad1Pf1hIs2ej_S8hWM0",
+          "info": "clic descargar | abrir archivo",
+          "embed": true
+        },
+        {
+          "name": "Navegador Opera",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.opera.browser&hl=es&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        },
+        {
+          "name": "Navegador Brave",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=es&gl=US",
+          "info": "clic descargar | Google PlayStore",
+          "embed": true
+        },
+        {
+          "name": "Reproductor ABLStream",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png",
+          "url": "https://play.google.com/store/apps/details?id=com.ablstream&hl=en&gl=US",
+          "info": "clic descargar | Google PlayStore",
           "embed": true
         }
       ]
