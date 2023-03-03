@@ -10,89 +10,95 @@
   "groups": [
 
     {
-      "name": "Eventos del día",
+      "name": "Eventos del día (03-Marzo 8:00)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ LaLiga Santander",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "⚽️ 21h. | Real Sociedad x Cádiz",
+              "image": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fdiariouf.com%2Fwp-content%2Fuploads%2F2023%2F03%2FRSO-CAD.png",
+              "info": "📡 LaLiga (M+ Dial 52), LaLiga TV Bar (M+ Dial 300)",
+              "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664"
             }
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ LaLiga SmartBank",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LaLiga_SmartBank_logo_%28stacked%29.svg/800px-LaLiga_SmartBank_logo_%28stacked%29.svg.png",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "21h. | FC Andorra x UD Las Palmas",
+              "image": "https://assets-es.imgfoot.com/match-cover-es-4115160836185813156-5084046659265316332.jpg",
+              "info": "📡 LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), #Vamos (M+ Dial 8), Movistar+ Lite, Amazon Prime Video",
+              "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247" , "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c" , "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775" , "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
             }
           ]
         },
         {
-          "name": "⚽️ (finalizado)",
+          "name": "⚽️ Copa del Rey (sin eventos)",
           "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
-          "info": "📡 La 1, RTVE Play, #Vamos (M+ Dial 8), #Vamos BAR (M+ Dial 304), Liga de Campeones (M+ Dial 50), Movistar+ Lite",
+          "info": "",
           "stations": [
             {
-              "name": "21:00 | Real Madrid vs FC Barcelona (0-1)",
-              "image": "https://phantom-marca.unidadeditorial.es/635bdbdd0c070d6c0be4a73ae88939da/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/01/16776862446392.jpg",
-              "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775" , "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f"
+              "name": "",
+              "image": "",
+              "url": "" , "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Bundesliga",
           "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "⚽️ 20:30h. | Borussia Dortmund x RB Leipzig",
+              "image": "https://media.tycsports.com/files/2023/03/01/540082/borussia-dortmund-vs-rb-leipzig-en-vivo-como-llegan-al-partido_862x485.webp",
+              "info": "📡 #Vamos Bar 2 (M+ Dial 305), Liga de Campeones (M+ Dial 56)",
+              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
             }
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Serie A Italia",
           "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "20:45h | Napoli x Lazio",
+              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/02/Napoli-Lazio_it.jpg",
+              "info": "📡 #Vamos Bar 3 (M+ Dial 306), Liga de Campeones 2 (M+ Dial 57)",
+              "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c" , "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
             }
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Championship",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
+              "name": "21h. | Hull City x West Bromwich Albion",
+              "image": "https://s.secure.espncdn.com/stitcher/artwork/collections/airings/80dd97bc-2f02-4570-9439-c74014611d63/16x9.png?timestamp=202302262305",
+              "info": "📡 DAZN",
               "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ FA CUP (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
           "info": "",
           "stations": [
             {
               "name": "",
               "image": "",
+              "info": "",
               "url": ""
             },
             {
@@ -103,7 +109,7 @@
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Premier League (sin eventos)",
           "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
           "info": "",
           "stations": [
@@ -120,7 +126,7 @@
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Carabao Cup (sin eventos)",
           "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
           "info": "",
           "stations": [
@@ -132,14 +138,15 @@
           ]
         },
         {
-          "name": "⚽️ (sin eventos)",
+          "name": "⚽️ Ligue 1 Francia",
           "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "url": ""
+              "name": "21h. | Niza x  Auxerre",
+              "image": "https://s.secure.espncdn.com/stitcher/artwork/collections/airings/80dd97bc-2f02-4570-9439-c74014611d63/16x9.png?timestamp=202302262305",
+              "info": "📡 DAZN, Eurosport 2, Eurosport Player",
+              "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf" , "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01"
             }
           ]
         }
