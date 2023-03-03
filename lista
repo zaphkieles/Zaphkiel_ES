@@ -658,10 +658,10 @@
       "info": "clic descargar / abrir archivo",
       "stations": [
         {
-          "name": "Apps",
+          "name": "Archivo de Apps",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmwijA2Cf7yNZwRjFF8uaapwwsb1PcnAAbew&usqp=CAU",
           "url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q",
-          "info": "clic descargar / abrir archivo",
+          "info": "clic descargar / para abrir carpeta de Apps",
           "embed": true
         },
         {
