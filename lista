@@ -601,7 +601,7 @@
       "info": "No Info",
       "stations": [
         {
-          "name": "SFNTV (necesita activar VPN ABLStream)",
+          "name": "SFNTV (necesita activar VPN)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_sfn_logo_step_repeat.png",
           "url": "https://bit.ly/3WybDzd?r=lp",
           "embed": true
@@ -619,7 +619,7 @@
           "embed": true
         },
         {
-          "name": "PHOTOCALL (necesita activar VPN ABLStream, elegir abrir en navegador)",
+          "name": "PHOTOCALL (necesita activar VPN)",
           "image": "https://www.adslzone.net/app/uploads-adslzone.net/2021/12/photocall-1.jpg",
           "url": "https://photocall.tv",
           "embed": true
@@ -683,13 +683,13 @@
           "embed": true
         },
         {
-          "name": "(necesita activar VPN ABLStream)",
+          "name": "(necesita activar VPN)",
           "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
           "url": "https://bit.ly/3PhuVpI?r=lp",
           "embed": true
         },
         {
-          "name": "Futbolfullenvivo (necesita activar VPN ABLStream)",
+          "name": "Futbolfullenvivo (necesita activar VPN)",
           "image": "https://site-images.similarcdn.com/image?url=futbolfullenvivo.com&t=4&s=1&h=1e16154a9666e0125afb7710583242e6aac9471aed792e00c55367abe1efdea9",
           "url": "https://bit.ly/3xlmp0Y?r=lp",
           "embed": true
@@ -701,7 +701,7 @@
           "embed": true
         },
         {
-          "name": "SportsOnline (necesita activar VPN ABLStream) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
+          "name": "SportsOnline (necesita activar VPN) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
           "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
           "url": "https://bit.ly/3TCckFL?r=lp",
           "embed": true
