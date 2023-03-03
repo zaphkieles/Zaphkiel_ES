@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 03-03-2023 - 13:00",
+  "author": "Zaphkiel_ES - Actualizado: 03-03-2023 - 17:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -653,14 +653,50 @@
       ]
     },
     {
-      "name": "Sección vacía",
-      "image": "",
+      "name": "Apps Android",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU",
       "info": "No Info",
       "stations": [
         {
-          "name": "",
+          "name": "Apps",
           "image": "",
-          "url": "",
+          "url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q",
+          "embed": true
+        },
+        {
+          "name": "VPN",
+          "image": "",
+          "url": "https://mega.nz/file/944R1ZwK#4XTUs71UuMfZasN4MG759zstmq_FXFnLFD8cX4cdipw",
+          "embed": true
+        },
+        {
+          "name": "AceStream Media 3.1.32",
+          "image": "",
+          "url": "https://mega.nz/file/s05SUB4Y#X8ygNZCwVk90-Cz41PynnaCY0Ff3M1EHimbxwYxFjOc",
+          "embed": true
+        },
+        {
+          "name": "AceStream Media | PC",
+          "image": "",
+          "url": "https://www.acestream.org/#",
+          "embed": true
+        },
+        {
+          "name": "AceStream TVBox",
+          "image": "",
+          "url": "https://mega.nz/file/YwRzVLhC#3T7gpiTyTFK5Rxz-wNPmHhi26BJgNXejxJHEc6bjHWM",
+          "embed": true
+        },
+        {
+          "name": "Listas Diarias (en mantenimiento)",
+          "image": "",
+          "url": "https://mega.nz/file/VwQCiJga#xukR5hIL1j_mY4bHX4fNJLrpad1Pf1hIs2ej_S8hWM0",
+          "embed": true
+        },
+        {
+          "name": "Wiseplay 7.2.2 Premium",
+          "image": "",
+          "url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU",
           "embed": true
         }
       ]
