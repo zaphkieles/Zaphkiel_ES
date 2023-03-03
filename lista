@@ -655,48 +655,55 @@
     {
       "name": "Apps Android",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwZa4VjMffi8FN7QKgkm064Q4QJ-G1rki6g&usqp=CAU",
-      "info": "No Info",
+      "info": "clic descargar / abrir archivo",
       "stations": [
         {
           "name": "Apps",
           "image": "",
           "url": "https://mega.nz/folder/hph10LaC#qTla0fSejaMGDoSfz5uD-Q",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "VPN",
           "image": "",
           "url": "https://mega.nz/file/944R1ZwK#4XTUs71UuMfZasN4MG759zstmq_FXFnLFD8cX4cdipw",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "AceStream Media 3.1.32",
           "image": "",
           "url": "https://mega.nz/file/s05SUB4Y#X8ygNZCwVk90-Cz41PynnaCY0Ff3M1EHimbxwYxFjOc",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "AceStream Media | PC",
           "image": "",
           "url": "https://www.acestream.org/#",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "AceStream TVBox",
           "image": "",
           "url": "https://mega.nz/file/YwRzVLhC#3T7gpiTyTFK5Rxz-wNPmHhi26BJgNXejxJHEc6bjHWM",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "Listas Diarias (en mantenimiento)",
           "image": "",
           "url": "https://mega.nz/file/VwQCiJga#xukR5hIL1j_mY4bHX4fNJLrpad1Pf1hIs2ej_S8hWM0",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         },
         {
           "name": "Wiseplay 7.2.2 Premium",
           "image": "",
           "url": "https://mega.nz/file/Q1g3CI7Q#RQ1YBWoHCVCUqD_GS9MNE0Vk27rRPrHSV411hWnVyiU",
+          "info": "clic descargar / abrir archivo",
           "embed": true
         }
       ]
