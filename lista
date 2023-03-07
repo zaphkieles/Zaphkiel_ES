@@ -832,8 +832,7 @@
         }
       ]
     },
-    {
-      "name": "Web deportivas favoritas",
+    {  "name": "Web deportivas favoritas",
       "image": "https://tecnobirdman.com/wp-content/uploads/2021/12/Como-ver-paginas-web-favoritas-en-Google-Chrome-Android-1140x600.jpg",
       "info": "No Info",
       "stations": [
@@ -846,13 +845,13 @@
         {
           "name": "",
           "image": "https://cdn.livesoccertv.com/images/logo.gif",
-          "url": "https://bit.ly/3F1fm1M?r=lp",
+          "url": "https://bit.ly/3iW26mV?r=lp",
           "embed": true
         },
         {
-          "name": "",
+          "name": "(necesita activar VPN)",
           "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
-          "url": "https://bit.ly/3ST8iK2?r=lp",
+          "url": "https://bit.ly/3PhuVpI?r=lp",
           "embed": true
         },
         {
@@ -865,25 +864,12 @@
           "name": "",
           "image": "https://pbs.twimg.com/profile_images/1527601638932086787/IKDpD69A_400x400.png",
           "url": "https://bit.ly/3FI2Cxs?r=lp",
-          "ishost": true
+          "embed": true
         },
         {
-          "name": "SportsOnline",
+          "name": "SportsOnline (necesita activar VPN) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
           "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
-          "url": "https://bit.ly/3kQlumt?r=lp",
-          "embed": true
-        }
-      ]
-    },
-    {
-      "name": "Tutoriales",
-      "image": "https://www.actualidadecommerce.com/wp-content/uploads/2016/03/tutoriales-830x467.jpg",
-      "info": "No Info",
-      "stations": [
-        {
-          "name": "Tutoriales: KODI+Luar Addons",
-          "image": "https://e7.pngegg.com/pngimages/307/509/png-clipart-kodi-installation-wizard-instalator-firetv-pi-miscellaneous-blue-thumbnail.png",
-          "url": "https://bit.ly/3Btr8Aa?r=lp",
+          "url": "https://bit.ly/3TCckFL?r=lp",
           "embed": true
         }
       ]
