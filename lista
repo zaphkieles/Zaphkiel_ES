@@ -10,7 +10,7 @@
   "groups": [
 
     {
-      "name": "Eventos del día (finalizados)",
+      "name": "Eventos del día (sin eventos)",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
@@ -19,28 +19,28 @@
           "info": "",
           "stations": [
             {
-              "name": "14:00:00 Getafe  Girona",
-              "image": "https://phantom-marca.unidadeditorial.es/06a94216b49acd59c05da6edc31e8c50/resize/1320/f/jpg/assets/multimedia/imagenes/2023/03/01/16776891593198.jpg",
-              "info": " LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300)",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "name": "",
+              "image": "",
+              "info": "LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300)",
+              "url": "" , "url": "" , "url": ""
             },
             {
-              "name": "16:15:00 Almería  Villarreal",
-              "image": "https://phantom-marca.unidadeditorial.es/9a3b42f6675393205d8213ac0a364c13/resize/414/f/jpg/assets/multimedia/imagenes/2023/03/03/16778604196988.jpg",
-              "info": " LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300) ",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
-            },
-            {
-              "name": "18:30:00 RCD Mallorca  Elche ",
-              "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/02/16777707985678.jpg",
+              "name": "",
+              "image": "",
               "info": "LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300) ",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "url": "" , "url": "" , "url": ""
             },
             {
-              "name": "21:00:00 Atlético Madrid  Sevilla FC ",
-              "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/03/02/16777792141679.jpg",
-              "info": " LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300) LaLiga 2 (M+ Dial 55)",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "name": "",
+              "image": "",
+              "info": "LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300)",
+              "url": "" , "url": "" , "url": ""
+            },
+            {
+              "name": "",
+              "image": "",
+              "info": "LaLiga Santander LaLiga (M+ Dial 52) LaLiga TV Bar (M+ Dial 300) LaLiga 2 (M+ Dial 55)",
+              "url": "" , "url": "" , "url": ""
             }
           ]
         },
@@ -50,33 +50,33 @@
           "info": "",
           "stations": [
             {
-              "name": "16:15:00 Burgos Granada. ",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-429503911615110315-1765046592166476736.jpg",
+              "name": "",
+              "image": "",
               "info": "LaLiga TV BAR 2 (M+ Dial 301) #Vamos (M+ Dial 8) Movistar+ Lite Amazon Prime Video",
-              "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f" , "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+              "url": "" , "url": ""
             },
             {
-              "name": "18:30:00 SD Huesca  Levante LaLiga SmartBank ",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-1933672757237793797-6983544935790473006.jpg",
+              "name": "",
+              "image": "",
               "info": "LaLiga SmartBank TV 2 (M+ Dial 177) LaLiga TV BAR 3 (M+ Dial 302) Amazon Prime Video",
-              "url": "acestream://cf6249379184d88a61f9db617341c6b6e6abb342" , "url": "acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+              "url": "" , "url": ""
             },
             {
-              "name": "18:30:00 Tenerife  SD Eibar. ",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-4646761988820667698-2981201763763988492.jpg",
+              "name": "",
+              "image": "",
               "info": "LaLiga TV BAR 2 (M+ Dial 301) Amazon Prime Video",
               "url": "" , "url": "" , "url": "" , "url": ""
             },
             {
-              "name": "21:00:00 Mirandés  Real Oviedo.",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-6394330145939324795-2541296915246601161.jpg",
-              "info": " LaLiga TV BAR 2 (M+ Dial 301) Amazon Prime Video",
+              "name": "",
+              "image": "",
+              "info": "LaLiga TV BAR 2 (M+ Dial 301) Amazon Prime Video",
               "url": "" , "url": "" , "url": "" , "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ Copa del Rey (sin eventos)",
+          "name": "⚽️ Copa del Rey",
           "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
           "info": "",
           "stations": [
@@ -94,16 +94,16 @@
           "info": "",
           "stations": [
             {
-              "name": "15:30:00 FC Unión Berlín  Colonia ",
-              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/02/Union-Berlin-FC-Colonia_mx.jpg",
+              "name": "",
+              "image": "",
               "info": "Bundesliga #Vamos Bar 2 (M+ Dial 305) Liga de Campeones (M+ Dial 56)",
-              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "url": ""
             },
             {
-              "name": "18:30:00 Stuttgart  Bayern de Múnich ",
-              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/02/Stuttgart-Bayern-Munich_mx.jpg",
-              "info": "Bundesliga #Vamos (M+ Dial 8) #Vamos BAR (M+ Dial 304) Movistar+ Lite",
-              "url": "acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f" , "url": "acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": "" , "url": ""
             }
           ]
         },
@@ -113,16 +113,16 @@
           "info": "",
           "stations": [
             {
-              "name": "18:00:00 Atalanta  Udinese ",
-              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/02/Atalanta-Udinese_mx.jpg",
+              "name": "",
+              "image": "",
               "info": "Serie A Italia #Vamos Bar 2 (M+ Dial 305) Liga de Campeones (M+ Dial 56)",
-              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "url": ""
             },
             {
-              "name": "20:45:00 ACF Fiorentina  AC Milan ",
-              "image": "https://mexico.infobetting.com/blog/wp-content/uploads/2023/02/Fiorentina-AC-Milan_mx.jpg",
+              "name": "",
+              "image": "",
               "info": "Serie A Italia #Vamos Bar 2 (M+ Dial 305) Liga de Campeones (M+ Dial 56)",
-              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "url": ""
             }
           ]
         },
@@ -132,21 +132,21 @@
           "info": "",
           "stations": [
             {
-              "name": "13:30:00 Blackburn Rovers  Sheffield United ",
-              "image": "https://shaftscore.com/wp-content/uploads/2023/03/championship-69-1024x576.jpg",
+              "name": "",
+              "image": "",
               "info": "Championship DAZN DAZN 2 (M+ Dial 65) DAZN BAR 2 (M+ Dial 149)",
-              "url": "acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85" , "url": "acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e"
+              "url": "" , "url": ""
             },
             {
-              "name": "16:00:00 Blackpool  Burnley",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-1866744052884379426-5970418226007664426.jpg",
+              "name": "",
+              "image": "",
               "info": " Championship DAZN",
               "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ FA CUP (sin eventos)",
+          "name": "⚽️ FA CUP",
           "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
           "info": "",
           "stations": [
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "name": "⚽️ Premier League (sin eventos)",
+          "name": "⚽️ Premier League",
           "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
           "info": "",
           "stations": [
@@ -214,7 +214,7 @@
           ]
         },
         {
-          "name": "⚽️ Carabao Cup (sin eventos)",
+          "name": "⚽️ Carabao Cup",
           "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
           "info": "",
           "stations": [
@@ -227,7 +227,7 @@
           ]
         },
         {
-          "name": "⚽️ Ligue 1 Francia (sin eventos)",
+          "name": "⚽️ Ligue 1 Francia",
           "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
           "info": "",
           "stations": [
@@ -846,13 +846,13 @@
         {
           "name": "",
           "image": "https://cdn.livesoccertv.com/images/logo.gif",
-          "url": "https://bit.ly/3iW26mV?r=lp",
+          "url": "https://bit.ly/3F1fm1M?r=lp",
           "embed": true
         },
-        {
-          "name": "(necesita activar VPN)",
+        {(
+          "name": "",
           "image": "https://img2.sport-tv-guide.live/images/tv-station-sport-plus-tv-1972.png",
-          "url": "https://bit.ly/3PhuVpI?r=lp",
+          "url": "https://bit.ly/3ST8iK2?r=lp",
           "embed": true
         },
         {
@@ -868,9 +868,9 @@
           "embed": true
         },
         {
-          "name": "SportsOnline (necesita activar VPN) | (click, seleccionar contenido, copiar y pegar en telegram, para generar los enlaces) horario del listado +1h",
+          "name": "SportsOnline",
           "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
-          "url": "https://bit.ly/3TCckFL?r=lp",
+          "url": "https://bit.ly/3kQlumt?r=lp",
           "embed": true
         }
       ]
