@@ -871,7 +871,7 @@
           "name": "SportsOnline",
           "image": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/311453331_521519603318546_7160855481987338253_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DAM3JNidVI8AX9KP0IX&_nc_ht=scontent-mad1-1.xx&oh=00_AfBYvAlVQibxKh9Z4tb0vNBvWroY-cyACHGaVYwY8qvniw&oe=63B333B5",
           "url": "https://bit.ly/3kQlumt?r=lp",
-          "ishost": true
+          "embed": true
         }
       ]
     },
@@ -884,7 +884,7 @@
           "name": "Tutoriales: KODI+Luar Addons",
           "image": "https://e7.pngegg.com/pngimages/307/509/png-clipart-kodi-installation-wizard-instalator-firetv-pi-miscellaneous-blue-thumbnail.png",
           "url": "https://bit.ly/3Btr8Aa?r=lp",
-          "ishost": true
+          "embed": true
         }
       ]
     }
