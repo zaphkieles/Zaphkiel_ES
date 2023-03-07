@@ -10,11 +10,11 @@
   "groups": [
 
     {
-      "name": "Eventos del día (sin eventos)",
+      "name": "Eventos del día",
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
-          "name": "⚽️ LaLiga Santander",
+          "name": "⚽️ LaLiga Santander (sin eventos)",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
           "info": "",
           "stations": [
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "name": "⚽️ LaLiga SmartBank",
+          "name": "⚽️ LaLiga SmartBank (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LaLiga_SmartBank_logo_%28stacked%29.svg/800px-LaLiga_SmartBank_logo_%28stacked%29.svg.png",
           "info": "",
           "stations": [
@@ -76,7 +76,7 @@
           ]
         },
         {
-          "name": "⚽️ Copa del Rey",
+          "name": "⚽️ Copa del Rey (sin eventos)",
           "image": "https://img.asmedia.epimg.net/resizer/balJEB0SNJgrSCttCp7vVUlElD0=/1952x1098/filters:focal(755x204:765x214)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/N7VLNQB2TZCTHKXN37E6OE637E.jfif",
           "info": "",
           "stations": [
@@ -89,7 +89,7 @@
           ]
         },
         {
-          "name": "⚽️ Bundesliga",
+          "name": "⚽️ Bundesliga (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png",
           "info": "",
           "stations": [
@@ -108,7 +108,7 @@
           ]
         },
         {
-          "name": "⚽️ Serie A Italia",
+          "name": "⚽️ Serie A Italia (sin eventos)",
           "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
           "info": "",
           "stations": [
@@ -127,7 +127,7 @@
           ]
         },
         {
-          "name": "⚽️ Championship",
+          "name": "⚽️ Championship (sin eventos)",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
           "info": "",
           "stations": [
@@ -145,8 +145,54 @@
             }
           ]
         },
+	{
+          "name": "⚽️ Champions League",
+          "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
+          "info": "",
+          "stations": [
+            {
+              "name": "21:00 | Benfica x Club Brujas",
+              "image": "https://i0.wp.com/aficiondeportiva.com/wp-content/uploads/2023/02/BRU-BEN.png?fit=960%2C720&ssl=1",
+              "info": "Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
+              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+            },
+            {
+              "name": "21:00 | Chelsea x Borussia Dortmund",
+              "image": "",
+              "info": "Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 440)",
+              "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+            }
+          ]
+        },
+	{
+          "name": "⚽️ Europa Conference League",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "18:45 | Lazio x AZ Alkmaar Octavos de Final",
+              "image": "https://mrfixitstips.co.uk/wp-content/uploads/2023/02/MRF2023_LaziovAZAlkmaar.jpg",
+              "info": " Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308)",
+              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+            }
+          ]
+        },
+	{
+          "name": "⚽️ Copa de la Reina",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "17:30 | Alhama CF  UDG Tenerife Cuartos de Final",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png",
+              "info": "Teledeporte, RTVE Play, Esport3 Cataluña",
+              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" , "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+            }
+          ]
+        },
+
         {
-          "name": "⚽️ FA CUP",
+          "name": "⚽️ FA CUP (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",
           "info": "",
           "stations": [
@@ -165,7 +211,7 @@
           ]
         },
         {
-          "name": "⚽️ Premier League",
+          "name": "⚽️ Premier League (sin eventos)",
           "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
           "info": "",
           "stations": [
@@ -214,7 +260,7 @@
           ]
         },
         {
-          "name": "⚽️ Carabao Cup",
+          "name": "⚽️ Carabao Cup (sin eventos)",
           "image": "https://www.themillers.co.uk/siteassets/image/efl/efl-logos/carabao-cup-2018-19.jpg",
           "info": "",
           "stations": [
@@ -227,7 +273,7 @@
           ]
         },
         {
-          "name": "⚽️ Ligue 1 Francia",
+          "name": "⚽️ Ligue 1 Francia (sin eventos)",
           "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
           "info": "",
           "stations": [
