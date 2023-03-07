@@ -179,12 +179,12 @@
         },
 	{
           "name": "⚽️ Copa de la Reina",
-          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png",
           "info": "",
           "stations": [
             {
               "name": "17:30 | Alhama CF  UDG Tenerife Cuartos de Final",
-              "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png",
+              "image": "https://stadiumtenerife.es/wp-content/uploads/2023/03/Previa-Alhama-El-Pozo-UDG-7-3-23-Copa-la-Reina.png",
               "info": "Teledeporte, RTVE Play, Esport3 Cataluña",
               "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" , "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
             }
