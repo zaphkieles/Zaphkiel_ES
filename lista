@@ -151,16 +151,16 @@
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Benfica x Club Brujas",
-              "image": "https://i0.wp.com/aficiondeportiva.com/wp-content/uploads/2023/02/BRU-BEN.png?fit=960%2C720&ssl=1",
-              "info": "Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
-              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             },
             {
-              "name": "21:00 | Chelsea x Borussia Dortmund",
-              "image": "https://k-vod.uecdn.es/html5/html5lib/v2.89.0_ue/modules/KalturaSupport/thumbnail.php/p/110/uiconf_id/14969339/entry_id/0_qen6lmge/height/407?",
-              "info": "Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 440)",
-              "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             }
           ]
         },
@@ -170,10 +170,10 @@
           "info": "",
           "stations": [
             {
-              "name": "18:45 | Lazio x AZ Alkmaar Octavos de Final",
-              "image": "https://mrfixitstips.co.uk/wp-content/uploads/2023/02/MRF2023_LaziovAZAlkmaar.jpg",
-              "info": " Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308)",
-              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+              "name": "",
+              "image": "",
+              "info": " ",
+              "url": ""
             }
           ]
         },
@@ -183,10 +183,10 @@
           "info": "",
           "stations": [
             {
-              "name": "17:30 | Alhama CF  UDG Tenerife Cuartos de Final",
-              "image": "https://stadiumtenerife.es/wp-content/uploads/2023/03/Previa-Alhama-El-Pozo-UDG-7-3-23-Copa-la-Reina.png",
-              "info": "Teledeporte, RTVE Play, Esport3 Cataluña",
-              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" , "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+              "name": "l",
+              "image": "g",
+              "info": "",
+              "url": ""
             }
           ]
         },
