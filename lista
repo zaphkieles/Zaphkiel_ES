@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 07-03-2023 - 13:00",
+  "author": "Zaphkiel_ES - Actualizado: 08-03-2023 - 9:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -151,16 +151,16 @@
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
+              "name": "21:00 | Bayern de Múnich x PSG",
+              "image": "https://cdn-az.allevents.in/events5/banners/10a8fa3a012cb0199a5f19afd87035dd378f58d702e4b1e25f2e2089f7f7930b-rimg-w1170-h1170-gmir.jpg?v=1677583779",
+              "info": "Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 440)",
+              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
             },
             {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
+              "name": "21:00 | Tottenham Hotspur x AC Milan",
+              "image": "https://e.rpp-noticias.io/large/2023/03/07/415441_1397972.jpg",
+              "info": "Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
+              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
             }
           ]
         },
@@ -183,10 +183,10 @@
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "g",
-              "info": "",
-              "url": ""
+              "name": "21:00 | Granada Femenino x Atlético Madrid Femenino",
+              "image": "https://cope-cdnmed.agilecontent.com/resources/jpg/5/9/1675428814895.jpg",
+              "info": "(Cuartos de Final) Teledeporte, RTVE Play, Esport3 Cataluña",
+              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" , "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
             }
           ]
         },
