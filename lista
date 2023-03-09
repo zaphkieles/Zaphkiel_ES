@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 09-03-2023 - 1:00",
+  "author": "Zaphkiel_ES - Actualizado: 09-03-2023 - 8:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -409,6 +409,11 @@
                 "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
               },
               {
+                "name": "Sorts 3 GEO CAT",
+                "image": "",
+                "url": "acestream://cda71664828814773985908db1c74935984a0956"
+              },
+              {
                 "name": "ESPN",
                 "image": "",
                 "url": "acestream://7f8d128f090347c48b7eb608a7037a2998a743ba"
@@ -472,6 +477,11 @@
                 "name": "BT Sport 3 (UK)",
                 "image": "",
                 "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+              },
+              {
+                "name": "BT Sport 4 (UK)",
+                "image": "",
+                "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
               },
               {
                 "name": "Match Football 1",
@@ -629,7 +639,7 @@
                 "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
               },
               {
-                "name": "M+ La Liga SmartBank Multiaudio (dial 54)",
+                "name": "M+ La Liga SmartBank (dial 54)",
                 "image": "",
                 "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c"
               },
@@ -651,47 +661,47 @@
             "info": "No Info",
             "stations": [
               {
-                "name": "M+ Liga campeones 1080p multiaudio",
+                "name": "M+ Liga campeones 1080p multiaudio (dial 56)",
                 "image": "",
                 "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
               },
               {
-                "name": "M+ Liga de Campeones 720p",
+                "name": "M+ Liga de Campeones (dial 56)",
                 "image": "",
                 "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47"
               },
               {
-                "name": "M+ Liga de Campeones 2",
+                "name": "M+ Liga de Campeones 2 (dial 57)",
                 "image": "",
                 "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
               },
               {
-                "name": "M+ Liga de Campeones 2",
+                "name": "M+ Liga de Campeones 2 (dial 57)",
                 "image": "",
                 "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
               },
               {
-                "name": "M+ Liga de Campeones 3",
+                "name": "M+ Liga de Campeones 3 (dial 58)",
                 "image": "",
                 "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
               },
               {
-                "name": "M+ Liga de Campeones 3 720p",
+                "name": "M+ Liga de Campeones 3 (dial 58)",
                 "image": "",
                 "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
               },
               {
-                "name": "M+ Liga de Campeones 4",
+                "name": "M+ Liga de Campeones 4 (dial 180)",
                 "image": "",
                 "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
               },
               {
-                "name": "M+ Liga de Campeones 5",
+                "name": "M+ Liga de Campeones 5 (dial 182)",
                 "image": "",
                 "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
               },
               {
-                "name": "M+ Liga de Campeones 6",
+                "name": "M+ Liga de Campeones 6 (dial 183)",
                 "image": "",
                 "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
               }
@@ -756,7 +766,7 @@
                 "name": "DAZN1 (enlace web)",
                 "image": "",
                 "url": "https://nosequewea.tk/dazn1",
-                "embed": true
+                "ishost": true
               },
               {
                 "name": "DAZN2 (enlace web)",
