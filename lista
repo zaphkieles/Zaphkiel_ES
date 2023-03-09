@@ -165,7 +165,7 @@
           ]
         },
 	{
-          "name": "⚽️ Europa Conference League",
+          "name": "⚽️ UEFA Europa Conference League",
           "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
           "info": "",
           "stations": [
@@ -174,6 +174,42 @@
               "image": "https://media.rpctv.com/p/25ef14b5979b6c98087f445b173b00fd/adjuntos/314/imagenes/018/202/0018202768/1200x675/smart/anderlecht-vs-villarreal-1jpg.jpg",
               "info": "Octavos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), M+ Liga de Campeones 4 (Dial 180)",
               "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c" , "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+            },
+            {
+              "name": "18:45 | AEK Larnaca x West Ham",
+              "image": "https://premierleaguebrasil.com.br/wp-content/uploads/2023/03/MODELO-CONFRONTO-23-1024x576.png",
+              "info": "Octavos de Final Liga de Campeones 8 (M+ Dial 185), Liga de Campeones 4 (M+ Dial 180)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+            },
+            {
+              "name": "18:45 | FC Sheriff x Niza",
+              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/03/Sheriff-Tiraspol-Niza_mx-1280x720.jpg",
+              "info": "Octavos de Final Liga de Campeones 9 (M+ Dial 186), Liga de Campeones 4 (M+ Dial 180)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+            },
+            {
+              "name": "21:00 | ACF Fiorentina x Sivasspor",
+              "image": "https://assets-es.imgfoot.com/match-cover-es-8329794550988530319-6398181296087873167.jpg",
+              "info": "Octavos de Final Liga de Campeones 6 (M+ Dial 183), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7" , "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+            },
+            {
+              "name": "21:00 | Basilea x Slovan Bratislava",
+              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/03/Basilea-Slovan_mx-1280x720.jpg",
+              "info": "Octavos de Final Liga de Campeones 7 (M+ Dial 184), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+            },
+            {
+              "name": "21:00 | Gent x Istanbul Basaksehir",
+              "image": "https://www.kaagent.be/_media/articles/image/1677511064/fit/1200/628/11142/kaa-gent-loot-x-in-de-round-of-16.jpg",
+              "info": "Octavos de Final Liga de Campeones 8 (M+ Dial 185), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+            },
+            {
+              "name": "21:00 | Lech Poznan x Djurgardens",
+              "image": "https://cdn.placaragora.com.br/uploads/jogos/uefa-europa-conference-league-lech-poznan-x-djurgardens-if-09032023.jpg",
+              "info": "Octavos de Final Liga de Campeones 9 (M+ Dial 186), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
             }
           ]
         },
