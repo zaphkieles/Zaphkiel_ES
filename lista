@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 09-03-2023 - 22:20",
+  "author": "Zaphkiel_ES - Actualizado: 10-03-2023 - 00:30",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -14,64 +14,28 @@
       "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg",
       "groups": [
          {
-          "name": "⚽️ LaLiga Santander (sin eventos)",
+          "name": "⚽️ LaLiga Santander",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7Yd-M972PyWRkYxiXb09-iUccRgCqyxcJB8dau4Df0XS3bGDdbP0RtjuAbzX7vgeYyY&usqp=CAU",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
+              "name": "21:00 | Cádiz x Getafe",
+              "image": "https://cdn.resfu.com/media/img_news/posibles-alineaciones-del-cadiz-getafe-de-la-primera-division-2022-2023--besoccer.jpg?size=1000x&lossy=1",
+              "info": "LaLiga (M+ Dial 52), LaLiga TV Bar (M+ Dial 300)",
+              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
             }
           ]
         },
         {
-          "name": "⚽️ LaLiga SmartBank (sin eventos)",
+          "name": "⚽️ LaLiga SmartBank",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LaLiga_SmartBank_logo_%28stacked%29.svg/800px-LaLiga_SmartBank_logo_%28stacked%29.svg.png",
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
+              "name": "21:00 | Real Oviedo  Ponferradina",
+              "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fichajes.com%2Fdirecto%2F721303349840812573-ponferradina-vs-real-oviedo&psig=AOvVaw077jwm4zNSOFJkLsQmj690&ust=1678490457913000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDYka7-z_0CFQAAAAAdAAAAABAE",
+              "info": "LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), Amazon Prime Video",
+              "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c" , "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             }
           ]
         },
@@ -98,49 +62,31 @@
               "image": "",
               "info": "",
               "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
             }
           ]
         },
         {
-          "name": "⚽️ Serie A Italia (sin eventos)",
+          "name": "⚽️ Serie A Italia",
           "image": "https://play-lh.googleusercontent.com/lnQuOeB-ncKrN9j2ut-yCtWdNF-iA55NehnwtR3Lzy7nsmDNo94DQ3WSx7zBVtqNkOU",
           "info": "",
           "stations": [
             {
-              "name": "",
+              "name": "20:45 | Spezia Calcio  Inter de Milán",
               "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            }
+              "info": "#Vamos Bar 2 (M+ Dial 305), Liga de Campeones (M+ Dial 56)",
+              "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+           }
           ]
         },
         {
-          "name": "⚽️ Championship (sin eventos)",
+          "name": "⚽️ Championship",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
           "info": "",
           "stations": [
             {
-              "name": "",
+              "name": "21:00 | Stoke City  Blackburn Rovers",
               "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
+              "info": "DAZN",
               "url": ""
             }
           ]
@@ -155,7 +101,27 @@
               "image": "",
               "info": "",
               "url": ""
-            },
+            }
+          ]
+        },
+	{
+          "name": "⚽️ UEFA Europa (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
+            }
+          ]
+        },
+  {
+          "name": "⚽️ Europa League (sin eventos)",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
+          "info": "",
+          "stations": [
             {
               "name": "",
               "image": "",
@@ -165,77 +131,15 @@
           ]
         },
 	{
-          "name": "⚽️ UEFA Europa Conference League",
-          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
-          "info": "",
-          "stations": [
-            {
-              "name": "21:00 | ACF Fiorentina x Sivasspor",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-8329794550988530319-6398181296087873167.jpg",
-              "info": "Octavos de Final Liga de Campeones 6 (M+ Dial 183), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
-            },
-            {
-              "name": "21:00 | Basilea x Slovan Bratislava",
-              "image": "https://www.infobetting.com/blog/wp-content/uploads/2023/03/Basilea-Slovan_mx-1280x720.jpg",
-              "info": "Octavos de Final Liga de Campeones 7 (M+ Dial 184), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-            },
-            {
-              "name": "21:00 | Gent x Istanbul Basaksehir",
-              "image": "https://www.kaagent.be/_media/articles/image/1677511064/fit/1200/628/11142/kaa-gent-loot-x-in-de-round-of-16.jpg",
-              "info": "Octavos de Final Liga de Campeones 8 (M+ Dial 185), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-            },
-            {
-              "name": "21:00 | Lech Poznan x Djurgardens",
-              "image": "https://cdn.placaragora.com.br/uploads/jogos/uefa-europa-conference-league-lech-poznan-x-djurgardens-if-09032023.jpg",
-              "info": "Octavos de Final Liga de Campeones 9 (M+ Dial 186), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-            }
-          ]
-        },
-  {
-          "name": "⚽️ Europa League",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/180px-Europa_League_2021.svg.png",
-          "info": "",
-          "stations": [
-           {
-              "name": "21:00 | Juventus x Friburgo",
-              "image": "https://static.deportes13.cl/sites/default/files/styles/manualcrop_850x475/public/deportes13/field-imagen/641869.jpg.jpeg?itok=pM-A16hA",
-              "info": "Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
-            },
-            {
-              "name": "21:00 | Manchester United x Real Betis",
-              "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/03/08/1241546972-6407829593b44.jpeg",
-              "info": "Octavos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-            },
-            {
-              "name": "21:00 | Sevilla FC x Fenerbahçe",
-              "image": "https://www.lacolinadenervion.com/wp-content/uploads/2023/02/octavos_UEL-scaled.jpg",
-              "info": "Octavos de Final GOL PLAY, Liga de Campeones 3 (M+ Dial 309)",
-              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-            },
-            {
-              "name": "21:00 | Shaktar Donetsk x Feyenoord Rotterdam",
-              "image": "https://cdn.footystats.org/img/h2h/ukraine-fc-shakhtar-donetsk-h2h-netherlands-feyenoord-rotterdam.png",
-              "info": "Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309), M+ Liga de Campeones 4 (Dial 180)",
-              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
-            }
-          ]
-        },
-	{
-          "name": "⚽️ Copa de la Reina",
+          "name": "⚽️ Copa de la Reina (sin eventos)",
           "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Copa_de_la_Reina_2021.png",
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Villarreal Femenino x Real Madrid Femenino",
-              "image": "https://oddspedia.com/media/es/16x9/villarreal-women-real-madrid-women-7261187.png",
-              "info": "Cuartos de Final RTVE Play, Esport3 Cataluña",
-              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             }
           ]
         },
@@ -250,12 +154,6 @@
               "image": "",
               "info": "",
               "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
             }
           ]
         },
@@ -264,42 +162,6 @@
           "image": "https://www.fifplay.com/img/public/premier-league-2-logo.png",
           "info": "",
           "stations": [
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
-            {
-              "name": "",
-              "image": "",
-              "info": "",
-              "url": ""
-            },
             {
               "name": "",
               "image": "",
@@ -327,10 +189,10 @@
           "info": "",
           "stations": [
             {
-              "name": "",
+              "name": "21:00 | Lille LOSC  Olympique Lyonnais",
               "image": "",
-              "info": "",
-              "url": ""
+              "info": "DAZN, Eurosport 2, Eurosport Player",
+              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01" , "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
             }
           ]
         }
