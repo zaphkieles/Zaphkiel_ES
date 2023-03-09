@@ -1,6 +1,6 @@
 {
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 09-03-2023 - 16:00",
+  "author": "Zaphkiel_ES - Actualizado: 09-03-2023 - 22:20",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -210,7 +210,7 @@
               "name": "21:00 | Manchester United x Real Betis",
               "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/03/08/1241546972-6407829593b44.jpeg",
               "info": "Octavos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
-              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
             },
             {
               "name": "21:00 | Sevilla FC x Fenerbahçe",
@@ -222,7 +222,7 @@
               "name": "21:00 | Shaktar Donetsk x Feyenoord Rotterdam",
               "image": "https://cdn.footystats.org/img/h2h/ukraine-fc-shakhtar-donetsk-h2h-netherlands-feyenoord-rotterdam.png",
               "info": "Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309), M+ Liga de Campeones 4 (Dial 180)",
-              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
             }
           ]
         },
