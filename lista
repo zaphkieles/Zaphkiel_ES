@@ -146,21 +146,21 @@
           ]
         },
 	{
-          "name": "⚽️ Champions League",
+          "name": "⚽️ Champions League (sin eventos)",
           "image": "https://play-lh.googleusercontent.com/zhZWsqHQVQJf_pRimq97B24NQq8zPv_E4aW4l-RJlU5s_cDSUFo41da-D-dlJqU1tqI",
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Bayern de Múnich x PSG",
-              "image": "https://cdn-az.allevents.in/events5/banners/10a8fa3a012cb0199a5f19afd87035dd378f58d702e4b1e25f2e2089f7f7930b-rimg-w1170-h1170-gmir.jpg?v=1677583779",
-              "info": "Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones UHD (M+ Dial 440)",
-              "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             },
             {
-              "name": "21:00 | Tottenham Hotspur x AC Milan",
-              "image": "https://e.rpp-noticias.io/large/2023/03/07/415441_1397972.jpg",
-              "info": "Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones UHD 2 (M+ Dial 443)",
-              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" , "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             }
           ]
         },
@@ -170,10 +170,65 @@
           "info": "",
           "stations": [
             {
-              "name": "",
-              "image": "",
-              "info": " ",
-              "url": ""
+              "name": "18:45 | Anderlecht  Villarreal",
+              "image": "https://media.rpctv.com/p/25ef14b5979b6c98087f445b173b00fd/adjuntos/314/imagenes/018/202/0018202768/1200x675/smart/anderlecht-vs-villarreal-1jpg.jpg",
+              "info": "Octavos de Final Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c" , "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+            }
+          ]
+        },
+  {
+          "name": "⚽️ Europa League",
+          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png",
+          "info": "",
+          "stations": [
+            {
+              "name": "18:45 | Bayer Leverkusen x Ferencváros",
+              "image": "https://media.tycsports.com/files/2023/03/07/542358/bayer-leverkusen-vs-ferencvaros-en-vivo-como-llegan-al-partido_862x485_wmk.webp",
+              "info": "Campeones 7 (Dial 184), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa"
+            },
+            {
+              "name": "18:45 | Sporting de Lisboa x Arsenal",
+              "image": "https://media.tycsports.com/files/2023/03/07/542351/sporting-lisboa-vs-arsenal-en-vivo-como-llegan-al-partido_862x485.webp",
+              "info": "M+ Liga de Campeones 5 (Dial 182), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa" , "url": "acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d"
+            },
+            {
+              "name": "18:45 | AS Roma x Real Sociedad",
+              "image": "https://album.mediaset.es/eimg/2023/03/07/vlcsnap-2023-03-07-10h44m41s430_e583.png?w=480",
+              "info": "Octavos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+            },
+            {
+              "name": "18:45 | FC Unión Berlín x Saint-Gilloise",
+              "image": "https://www.soccerpunter.com/images/h2h/og/1079/3958.png",
+              "info": "M+ Liga de Campeones 6 (Dial 183), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa" , "url": "acestream://e9950ec551124c490ecbc2526a83d2c5a4516293"
+            },
+            {
+              "name": "21:00 | Juventus x Friburgo",
+              "image": "https://static.deportes13.cl/sites/default/files/styles/manualcrop_850x475/public/deportes13/field-imagen/641869.jpg.jpeg?itok=pM-A16hA",
+              "info": "Liga de Campeones 2 (M+ Dial 57), Liga de Campeones BAR 2 (M+ Dial 308), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6" ,  "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+            },
+            {
+              "name": "21:00 | Manchester United x Real Betis",
+              "image": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/03/08/1241546972-6407829593b44.jpeg",
+              "info": "Octavos de Final Liga de Campeones (M+ Dial 56), Liga de Campeones BAR (M+ Dial 307), Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309)",
+              "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+            },
+            {
+              "name": "21:00 | Sevilla FC x Fenerbahçe",
+              "image": "https://www.lacolinadenervion.com/wp-content/uploads/2023/02/octavos_UEL-scaled.jpg",
+              "info": "Octavos de Final GOL PLAY, Liga de Campeones 3 (M+ Dial 309)",
+              "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24" , "url":"acestream://d4627f7b6b237a8556819445b3283d866caceca2"
+            },
+            {
+              "name": "21:00 | Shaktar Donetsk x Feyenoord Rotterdam",
+              "image": "https://cdn.footystats.org/img/h2h/ukraine-fc-shakhtar-donetsk-h2h-netherlands-feyenoord-rotterdam.png",
+              "info": "Liga de Campeones 3 (M+ Dial 58), Liga de Campeones BAR 3 (M+ Dial 309), M+ Liga de Campeones 4 (Dial 180)",
+              "url": "acestream://1a1b528109edead1904e3dbff575637a452dd1fa" , "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
             }
           ]
         },
@@ -183,10 +238,16 @@
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Granada Femenino x Atlético Madrid Femenino",
-              "image": "https://cope-cdnmed.agilecontent.com/resources/jpg/5/9/1675428814895.jpg",
-              "info": "(Cuartos de Final) Teledeporte, RTVE Play, Esport3 Cataluña",
-              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132" , "url": "acestream://5a272a468eaf25feb032e2c5d377c6276b2299c7"
+              "name": "18:30 | Osasuna Femenino x Athletic Femenino",
+              "image": "https://files.proyectoclubes.com/osasuna/202302/662x372a_03172706whatsapp-image-2023-02-03-at-5.24.35-pm.jpeg",
+              "info": "Cuartos de Final RTVE Play, Esport3 Cataluña",
+              "url": "acestream://cda71664828814773985908db1c74935984a0956"
+            },
+            {
+              "name": "21:00 | Villarreal Femenino x Real Madrid Femenino",
+              "image": "https://oddspedia.com/media/es/16x9/villarreal-women-real-madrid-women-7261187.png",
+              "info": "Cuartos de Final RTVE Play, Esport3 Cataluña",
+              "url": "acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132"
             }
           ]
         },
