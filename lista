@@ -33,7 +33,7 @@
           "stations": [
             {
               "name": "21:00 | Real Oviedo  Ponferradina",
-              "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fichajes.com%2Fdirecto%2F721303349840812573-ponferradina-vs-real-oviedo&psig=AOvVaw077jwm4zNSOFJkLsQmj690&ust=1678490457913000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDYka7-z_0CFQAAAAAdAAAAABAE",
+              "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0d30763387a03309/6376684df4379e109146e69f/WhatsApp_Image_2022-11-17_at_12.25.11.jpeg",
               "info": "LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), Amazon Prime Video",
               "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c" , "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             }
@@ -85,7 +85,7 @@
           "stations": [
             {
               "name": "21:00 | Stoke City  Blackburn Rovers",
-              "image": "",
+              "image": "https://assets-es.imgfoot.com/match-cover-es-1962555094827805665-3359148595620407931.jpg",
               "info": "DAZN",
               "url": ""
             }
@@ -184,13 +184,13 @@
           ]
         },
         {
-          "name": "⚽️ Ligue 1 Francia (sin eventos)",
+          "name": "⚽️ Ligue 1 Francia",
           "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
           "info": "",
           "stations": [
             {
               "name": "21:00 | Lille LOSC  Olympique Lyonnais",
-              "image": "",
+              "image": "https://www.movistarplus.es/recorte/n/galeria/MESP2T2100878",
               "info": "DAZN, Eurosport 2, Eurosport Player",
               "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01" , "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
             }
