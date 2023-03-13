@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "Zaphkiel_ES",
-  "author": "Zaphkiel_ES - Actualizado: 10-03-2023 - 00:30",
+  "author": "Zaphkiel_ES - Actualizado: 13-03-2023 - 17:00",
   "url": "https://raw.githubusercontent.com/zaphkieles/Zaphkiel_ES/main/lista",
   "image": "https://lh3.googleusercontent.com/a/AEdFTp4J0iA7MhUlhjDTK3TetovGbAa21DtkUDFEidEvLg=s96-c-rg-br100",
   "imageScale": "",
@@ -19,10 +19,10 @@
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Cádiz x Getafe",
-              "image": "https://cdn.resfu.com/media/img_news/posibles-alineaciones-del-cadiz-getafe-de-la-primera-division-2022-2023--besoccer.jpg?size=1000x&lossy=1",
-              "info": "LaLiga (M+ Dial 52), LaLiga TV Bar (M+ Dial 300)",
-              "url": "acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664" , "url": "acestream://d47addf5e467cbf102ba759600303c21efb1deeb" , "url": "acestream://1e0214a06000e6f4847dd30cdc2fb839527be862"
+              "name": "21:00 | Girona x Atlético Madrid",
+              "image": "https://phantom-marca.unidadeditorial.es/8bcab34ada10f96de8659fd673d8fed2/resize/660/f/webp/assets/multimedia/imagenes/2023/03/11/16784907687008.jpg",
+              "info": "DAZN, DAZN LaLiga (M+ Dial 53), LaLigaTV Bar (M+ Dial 300), DAZN LaLiga 2 (M+ Dial 172)",
+              "url": "acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff" , "url": "acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061"
             }
           ]
         },
@@ -32,9 +32,9 @@
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Real Oviedo  Ponferradina",
-              "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt0d30763387a03309/6376684df4379e109146e69f/WhatsApp_Image_2022-11-17_at_12.25.11.jpeg",
-              "info": "LaLiga SmartBank TV (M+ Dial 54), LaLiga TV BAR 2 (M+ Dial 301), Amazon Prime Video",
+              "name": "21:00 | Racing de Santander x SD Huesca",
+              "image": "https://www.fichajes.com/build/images/venues/default/stadium-desktop.6bc6f50e.jpg",
+              "info": "LaLiga SmartBankTV (M+ Dial 54), LaLigaTV Bar 2 (M+ Dial 301), Amazon Prime Video",
               "url": "acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c" , "url": "acestream://7791ba828c0226d8f54cef1611889d29fb333247"
             }
           ]
@@ -71,22 +71,22 @@
           "info": "",
           "stations": [
             {
-              "name": "20:45 | Spezia Calcio  Inter de Milán",
-              "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F456579669%2F420790273519%2F1%2Foriginal.20230228-025042?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C307%2C1170%2C585&s=e66412cb898ede74d57a9fec425036d3",
+              "name": "20:45 | AC Milan x Salernitana",
+              "image": "https://www.fichajes.com/build/images/venues/stadio-giuseppe-meazza/stadium-desktop.c7393fdf.jpg",
               "info": "#Vamos Bar 2 (M+ Dial 305), Liga de Campeones (M+ Dial 56)",
               "url": "acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47" , "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
            }
           ]
         },
         {
-          "name": "⚽️ Championship",
+          "name": "⚽️ Championship (sin eventos)",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F24.png",
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Stoke City  Blackburn Rovers",
-              "image": "https://assets-es.imgfoot.com/match-cover-es-1962555094827805665-3359148595620407931.jpg",
-              "info": "DAZN",
+              "name": "",
+              "image": "",
+              "info": "",
               "url": ""
             }
           ]
@@ -184,15 +184,15 @@
           ]
         },
         {
-          "name": "⚽️ Ligue 1 Francia",
+          "name": "⚽️ Ligue 1 Francia (sin eventos)",
           "image": "https://futboldesdefrancia.com/wp-content/uploads/2014/10/le-calendrier-de-ligue-1-saison-2014-2015.jpg",
           "info": "",
           "stations": [
             {
-              "name": "21:00 | Lille LOSC  Olympique Lyonnais",
-              "image": "https://www.movistarplus.es/recorte/n/galeria/MESP2T2100878",
-              "info": "DAZN, Eurosport 2, Eurosport Player",
-              "url": "acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01" , "url": "acestream://1fa7fe53129789bfab536e7a7188cb267fbc9ebf"
+              "name": "",
+              "image": "",
+              "info": "",
+              "url": ""
             }
           ]
         }
@@ -446,6 +446,11 @@
             "image": "https://miguia.tv/channels/big_32@2x.png",
             "info": "No Info",
             "stations": [
+  	      {
+                "name": "M+ Deportes",
+                "image": "",
+                "url": "acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c"
+              },
               {
                 "name": "M+ Deportes 1080p",
                 "image": "",
